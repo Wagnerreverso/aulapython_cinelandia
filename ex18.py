@@ -1,1 +1,2 @@
-''' preciso aprender a programar!
+for i in range(1, 11):
+    print("senac")
